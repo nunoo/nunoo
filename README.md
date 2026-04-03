@@ -5,10 +5,8 @@
 I work on Reliant, an AI coding assistant focused on programmable workflows, multi-agent execution, and developer automation.
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Website-nunoo.co-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  <img src="https://img.shields.io/badge/Project-Reliant-111827?style=for-the-badge&logo=github&logoColor=white" alt="Reliant" />
-</p>
+[![Website](https://img.shields.io/badge/Website-nunoo.co-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nunoo.co/)
+[![Project](https://img.shields.io/badge/Project-Reliant-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reliant-labs/reliant)
 
 ---
 
@@ -30,3 +28,4 @@ I work on Reliant, an AI coding assistant focused on programmable workflows, mul
 <p align="left">
   <sub><em>Building the tools I wish already existed.</em></sub>
 </p>
+
