@@ -24,3 +24,9 @@ I work on Reliant, an AI coding assistant focused on programmable workflows, mul
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,swift,nodejs,react,angular,django,electron,vite,vitest,tailwind,pug,postgres,sqlite,supabase,firebase,docker,kubernetes,aws,gcp,azure,cloudflare,bash,git,apple" alt="Stack icons" />
 </p>
+
+---
+
+<p align="left">
+  <sub><em>Building the tools I wish already existed.</em></sub>
+</p>
