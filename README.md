@@ -12,10 +12,10 @@ I work on Reliant, an AI coding assistant focused on programmable workflows, mul
 
 ### Focus
 
-- AI coding systems
+- AI systems
+- Multi-agent systems
 - Developer tools
 - Workflow orchestration
-- Multi-agent systems
 
 ### Skills
 
@@ -26,6 +26,6 @@ I work on Reliant, an AI coding assistant focused on programmable workflows, mul
 ---
 
 <p align="left">
-  <sub><em>Building the tools I wish already existed.</em></sub>
+  <sub><em>Building cool things I wish already existed.</em></sub>
 </p>
 
